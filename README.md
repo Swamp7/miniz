@@ -1,0 +1,2 @@
+# miniz
+Mini-Z Miner
